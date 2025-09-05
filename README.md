@@ -1,4 +1,4 @@
-## Hi there 👋
+Estudante de Analise e desenvolvimento de sitemas, com  foco em desenvolvimento back end. ## Hi there 👋
 
 <!--
 **THARLEY-LEAO/THARLEY-LEAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
